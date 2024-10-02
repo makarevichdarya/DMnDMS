@@ -60,7 +60,6 @@
 * Login (VARCHAR,50): Логин для авторизации.
 * Password (VARCHAR,50): Пароль для авторизации.
 * Email (VARCHAR,50): Электронная почта.
-* Role_ID(INT) - Ключ, ссылающийся на роль - OneToMany
 
 ### Seller (Продавец):
 
