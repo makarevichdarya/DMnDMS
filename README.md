@@ -139,4 +139,5 @@
 * Furniture (FK, INT): Внешний ключ, ссылающийся на Furniture.
 * OrderedFurn (FK, INT): Внешний ключ, ссылающийся на OrderedFurn.
 
-![БД drawio](https://github.com/user-attachments/assets/bbadf049-3958-4d34-be64-ea58e1d8bcd8)
+![БД (1) drawio](https://github.com/user-attachments/assets/471fb573-452e-4283-bd22-4c13611ac605)
+
